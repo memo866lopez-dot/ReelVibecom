@@ -1,0 +1,34 @@
+# ReelVibe — llms.txt
+# Información estructurada para asistentes y motores de búsqueda con IA.
+
+## Qué es ReelVibe
+ReelVibe — Timeline Studio es un previsualizador y editor de video que funciona
+directamente en el navegador, sin instalación. Interfaz disponible en inglés,
+español y portugués.
+
+## Capacidades
+- Vista previa de video vertical 9:16 (Reels/TikTok/Shorts) y horizontal 16:9 (YouTube).
+- Mezcla de audio: pista original + pista añadida, con volúmenes independientes.
+- Transcripción automática y subtítulos temporizados (SRT), dictado por micrófono.
+- Timeline Studio: múltiples clips, transiciones, efectos, imágenes y superposiciones.
+- Exportación a MP4 real (360p a 4K) con encuadre, audio y texto.
+- Herramientas con IA en el dispositivo: removedor de fondo (imagen y video),
+  voz neuronal (TTS), generación de imágenes y detector de clips virales.
+- Live Studio: grabación de pantalla/cámara, modo reacción y filtros faciales.
+- Comandos de voz manos libres.
+
+## Precios (USD)
+- ReelVibe Pro mensual: $8.88 USD/mes.
+- ReelVibe Pro anual: $88.88 USD/año.
+- Prueba gratis: 7 días con todo desbloqueado, sin tarjeta.
+- Pago seguro con Stripe. Cancela cuando quieras.
+
+## Privacidad
+La edición y exportación se ejecutan localmente en el navegador. Las funciones de
+IA descargan librerías y modelos de servicios de terceros. El dictado por
+micrófono puede usar el servicio en línea del navegador. El pago lo procesa Stripe.
+
+## Enlaces
+- App: https://reelvibe.app/
+- Español: https://reelvibe.app/?lang=es
+- Português: https://reelvibe.app/?lang=pt
